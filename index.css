@@ -14,7 +14,6 @@ body{
 .memory{
     width:640px;
     height:640px;
-    border:2px solid blue;
     display:flex;
     flex-wrap:wrap;
     margin:auto;
